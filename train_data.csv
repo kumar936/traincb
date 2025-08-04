@@ -1,0 +1,6 @@
+Source,Destination,Time_Slot,Crowd_Level
+A,C,07:00-09:00,High
+B,C,07:00-09:00,Medium
+A,B,09:00-11:00,Low
+C,A,11:00-13:00,Medium
+B,A,13:00-15:00,High

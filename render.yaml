@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: train-crowd-predictor
+    env: python
+    buildCommand: ""
+    startCommand: gunicorn app:app
+    plan: free
+    region: singapore
